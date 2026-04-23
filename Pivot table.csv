@@ -1,0 +1,14 @@
+Average price by neighbourhood,,,Superhost VS Normal host,,,Stay Category,,,Lowest Budget Airbnbs,,,Top 10 areas by stay,,,,,Superhost v/s Regular host,,,,,,,KPI
+Row Labels,Average of price,,Row Labels,Count of listing_id,,Row Labels,Count of listing_id,,Row Labels,Average of price,,Count of listing_id,Column Labels,,,,Row Labels,Average of review_scores_rating,Average of price,,Cleanliness,9.31,,Total Listings
+Bang Khae,"€ 3,896.07",,,0.00%,,Short stay,221556,,Gerritsen Beach,€ 30.00,,Row Labels,Short stay,Medium stay,Long stay,,Regular Host,92,€ 596.73,, Acuracy ,9.57,,279548
+Ward 40,"€ 4,000.00",,No,0.00%,,Long stay,33514,,Grant City,34.66666667,,Waverley,3716,940,78,,Grand Total,92.26140965,596.7304421,, Checkin ,9.7,,Average price
+Ward 44,"€ 4,075.00",,Yes,0.00%,,Medium stay,24477,,New Dorp,40,,Enclos-St-Laurent,4182,325,116,,,,,,Communication,9.7,,€ 609
+Bang Khun thain,"€ 4,351.04",,Regular Host,82.02%,,Grand Total,279547,,Soundview,€ 39.90,,Vaugirard,4290,362,173,,,,,,Location,9.63,, Average overall Listing 
+Alto da Boa Vista,"€ 4,637.11",,Superhost,17.98%,,,,,Vila Kosmos,€ 39.00,,Popincourt,5492,524,183,,,,,,Value,9.34,,93
+Ward 62,"€ 4,795.27",,Unknown,0.00%,,,,,Grand Total,37.68421053,,Beyoglu,6324,238,108,,,,,,,,,Superhost share
+Ward 78,"€ 6,240.00",,Grand Total,100.00%,,,,,,,,Buttes-Montmartre,6424,607,201,,,,,,,,,50253
+Ward 54,"€ 6,309.15",,,,,,,,,,,Sydney,6697,1119,235,,,,,,,,,18%
+Taling Chan,"€ 6,332.15",,,,,,,,,,,Cuauhtemoc,7063,404,158,,,,,,,,,Long 30+ Night ratio
+Sao Cristovao,"€ 9,796.34",,,,,,,,,,,Copacabana,7117,484,105,,,,,,,,,33514
+Grand Total,5975.372605,,,,,,,,,,,I Centro Storico,14425,282,162,,,,,,,,,12%
+,,,,,,,,,,,,Grand Total,65730,5285,1519,,,,,,,,,
